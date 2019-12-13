@@ -1,0 +1,106 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	background: #686de0;
+	 
+}
+
+.blockchain{
+	background: #686de0;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+}
+
+h1{
+	background: #30336b;
+	color: #dff9fb;
+	font-family: "Arial", "Helvetica", sans-serif;	
+	border: 2px solid #95afc0;
+	text-shadow:#000 -2px -2px;
+	height: 50px;
+	margin: center;
+	display: block;
+}
+
+h2{
+	color: #dff9fb;
+	font-family: "Arial", "Helvetica", sans-serif;
+	background-image: url(ghtile.png);
+	text-shadow:#000 -2px -2px;
+	
+}
+
+h3{
+	color: #dff9fb;
+	font-family: "Arial", "Helvetica", sans-serif;
+	text-shadow:#000 -1px -1px;
+	
+}
+
+p1{
+	width: 80%;
+	position: center;
+	color: #dff9fb;
+	line-height: 6px;
+	font-family:"Helvetica", sans-serif;
+	margin-left: 25px;
+	text-indent: 80px;
+	margin: 20px;
+	word-spacing: 3px;
+}
+
+#sonic{
+	width: 250px;
+	height: 370px;
+	position: center;
+	display: inline
+}
+
+#sonic2{
+	width:420px;
+	height: 370px;
+	display: inline;
+	float: right;
+}
+#border1{
+	border: 2px solid #95afc0;
+}
+
+#showText{
+	border: 10px solid #686de0;
+}
+
+#segalogo{
+	float: right;
+	width: 250px;
+	height: 100px;
+	border: 10px solid #686de0;
+}
+
+.navbar{
+	border: 1px solid ;
+	position: relative;
+	top: 30px;
+	margin: 10px;
+	background-image: url(GHZWAL07.png);
+	font-family: "Arial", "Helvetica", sans-serif;	
+	text-decoration: bold;
+}
+
+ul li{
+	display: inline;
+	position: relative;
+	margin: 20px;
+	text-decoration: bold;
+}
+
+#greenhill{
+	background-image: url(greenhill.jpg);
+	border: 2px solid;
+	}
+	
+	
+}
